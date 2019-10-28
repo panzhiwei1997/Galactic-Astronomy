@@ -1,2 +1,2 @@
 # topic 1: 
-# a. Cold dark matter is incompatible with structure on galactic scales
+# a. Cold dark matter is incompatible with structure on galactic scales 1
