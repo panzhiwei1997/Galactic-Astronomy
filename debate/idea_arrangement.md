@@ -14,7 +14,7 @@ rotation curve rises in a linear fashion
 
 ### simulation:
 
-cosmological computer simulations indicate a steep power-law-like behaviour. (1997，N-body simulations to study the equilibrium density profiles of dark matter halos in hierarchically clustering universe.   center: $\{rho} \propto r^-2$  )
+cosmological computer simulations indicate a steep power-law-like behaviour. (1997，N-body simulations to study the equilibrium density profiles of dark matter halos in hierarchically clustering universe.   center: $\rho \propto r^-2$  )
 
 cusp model
 
