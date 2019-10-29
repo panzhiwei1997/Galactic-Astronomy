@@ -30,7 +30,7 @@ Either the hierachical model  is fundamentally wrong or the substructure lumps a
 
 # topic 3:   															    E. AGN feedback is the main process that quenches massive galaxies and keeps them quenched.
 
-### observation：the expotential cut-off at the bright end of the galaxy luminosity function predicated by \Lambda cosmology.
+### observation：the expotential cut-off at the bright end of the galaxy luminosity function predicated by $\Lambda$ CDM cosmology.
 
 possible reason: AGN feedback of radio source supresses cooling to reduce gas condensation.
 
