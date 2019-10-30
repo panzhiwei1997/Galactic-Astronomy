@@ -30,6 +30,34 @@ High quality observations and self-consistent astrophysic models
 
 # topic 2:   																	C. The stellar initial mass function is not universal
 
+## Universal:
+
+### Thought:
+
+simplicity
+
+### Evidence:
+
+Surprisingly good  agreement between the field star and cluster IMF found in late 1950s.
+
+Some studies claimed some convergence on the cluster and field star subsolar IMF.
+
+There is no evidence for a systematic dependence of the IMF on gas or star density, metallicity, galactocentric radius, or time in our own or any other galaxy.
+
+## Not uiversal:
+
+### Thought:
+
+It's extremely difficult to imagine that the observed complexity of star formation results in a universal IMF.
+
+### Evidence:
+
+The uncertainties in empirical IMF estimates may be so large.
+
+Variations in $\Gamma$ amongopen cluster IMFs in this same mass range have not decreased despite numerous detailed studies.
+
+Evidence is found for an IMF that varies systematically with galaxy velocity dispersion and $\alpha-enhancement$. Steeper IMFs are found in more massive systems.
+
 # topic 3:   															    E. AGN feedback is the main process that quenches massive galaxies and keeps them quenched.
 
 ### Observation：the exponential cut-off at the bright end of the galaxy luminosity function predicated by $\Lambda CDM$ cosmology. 
