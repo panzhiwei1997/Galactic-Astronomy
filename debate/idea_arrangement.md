@@ -1,10 +1,8 @@
 # topic 1:                                                                  A. Cold dark matter is incompatible with structure on galactic scales 
 
-
-
 ## Q1: Core/Cusp problem( the small-scale crisis in cosmology):
 
-### observation：
+### Observation：
 
 Observations seem to indicate an approximately constant dark matter density in tne inner parts of galaxies.
 
@@ -12,7 +10,7 @@ core model
 
 rotation curve rises in a linear fashion
 
-### simulation:
+### Simulation:
 
 cosmological computer simulations indicate a steep power-law-like behaviour. (1997，N-body simulations to study the equilibrium density profiles of dark matter halos in hierarchically clustering universe.   center: $\rho \propto r^-2$  )
 
@@ -26,13 +24,29 @@ The CDM cosmological model predicts that massive galaxies such as Milky Way be s
 
 Either the hierachical model  is fundamentally wrong or the substructure lumps are present in the Galatic halo but contain too few baryons to be observed.
 
+## Solutions in future
+
+High quality observations and self-consistent astrophysic models
+
 # topic 2:   																	C. The stellar initial mass function is not universal
 
 # topic 3:   															    E. AGN feedback is the main process that quenches massive galaxies and keeps them quenched.
 
-### observation：the expotential cut-off at the bright end of the galaxy luminosity function predicated by $\Lambda$ CDM cosmology.
+### Observation：the exponential cut-off at the bright end of the galaxy luminosity function predicated by $\Lambda CDM$ cosmology. 
 
-possible reason: AGN feedback of radio source supresses cooling to reduce gas condensation.
+Mayby AGN feedback of radio source supresses cooling to reduce gas condensation.
+
+### Simulation: AGN feedback is important for quenching star formation in the remnant of mergers.
+
+AGN paly a maintencance role by coupling to the hot IGM and prevent it from cooling.  
+
+Massive blackhoes can drive powerful winds to quench star formation.
+
+### However, some people think that SAMBA bursts may trigger the active galactivity and gravtitational heating process through the release of potential energy from infalling stellar clumps will also help required quenching. 
+
+### Solutions in future
+
+New telescopes and instruments from the radio to X-ray bands will come into operation and lead a expansion in observational data in all modes of AGN feedback.
 
 
 
